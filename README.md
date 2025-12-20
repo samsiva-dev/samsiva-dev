@@ -3,6 +3,7 @@ Good Day,
 
 I’m V N G Samba Siva Reddy, a <b>Full Stack Engineer</b> and working as <b>Database Researcher at Zoho Corporation</b>, specializing in building scalable, maintainable systems across the web and database layers. My expertise spans the building robust Database systems, MERN stack, Golang-based backend services, and Docker-driven containerized environments, enabling me to architect and deliver robust, production-grade solutions end-to-end.
 
+## Skills
 ### Frameworks & Tools
 ![My Skills](https://skillicons.dev/icons?i=go,nodejs,react,docker,expressjs,postgres,mongodb,sass,k8s)
 
