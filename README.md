@@ -11,4 +11,4 @@ I’m CH .S. Siva Reddy, a <b>Full Stack Engineer</b> and working as <b>Database
 ![My Skills](https://skillicons.dev/icons?i=git,postman,figma)
 
 ### Programming Languages & Markup
-![My Skills](https://skillicons.dev/icons?i=go,javascript,python,c,java,cpp,html,css)
+![My Skills](https://skillicons.dev/icons?i=go,javascript,python,c,java,cpp,html,css,rust)
