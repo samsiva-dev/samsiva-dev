@@ -1,14 +1,32 @@
-# Hello, Namaste!!
-Good Day,  
+# Namaste 👋, I'm Samba Siva Reddy
 
-I’m CH .S. Siva Reddy, a <b>Full Stack Engineer</b> and working as <b>Database Researcher</b>, specializing in building scalable, maintainable systems across the web and database layers. My expertise spans the building robust Database systems, MERN stack, Golang-based backend services, and Docker-driven containerized environments, enabling me to architect and deliver robust, production-grade solutions end-to-end.
+**Database Researcher · PostgreSQL Internals · Systems Programmer**
 
-## Skills
-### Frameworks & Tools
-![My Skills](https://skillicons.dev/icons?i=go,nodejs,react,docker,expressjs,postgres,mongodb,sass,k8s)
+I work deep inside PostgreSQL — building extensions, wiring shared memory infrastructure, hooking into the executor, and pushing the boundaries of what databases can do at the C level. Outside of internals, I architect production-grade systems across the backend and web stack.
+
+---
+
+## 🔧 What I Work With
+
+### Backend & Infrastructure
+![](https://skillicons.dev/icons?i=go,nodejs,expressjs,docker,k8s,postgres,mongodb)
+
+### Frontend
+![](https://skillicons.dev/icons?i=react,sass,html,css)
+
+### Languages
+![](https://skillicons.dev/icons?i=c,go,rust,javascript,python,java,cpp)
 
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=git,postman,figma)
+![](https://skillicons.dev/icons?i=git,postman,figma)
 
-### Programming Languages & Markup
-![My Skills](https://skillicons.dev/icons?i=go,javascript,python,c,java,cpp,html,css,rust)
+---
+
+## 📬 Find Me
+
+[![Blog](https://img.shields.io/badge/Blog-sambasivareddy.in-blue?style=flat-square)](https://sambasivareddy.in)
+[![Twitter](https://img.shields.io/badge/Twitter-@itzsamscc-1DA1F2?style=flat-square&logo=twitter)](https://x.com/itzsamscc)
+
+---
+
+*"The internals are where the interesting problems live."*
